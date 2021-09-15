@@ -25,11 +25,11 @@
 </p>
 
 
-## 👨🏻‍💻 About the project
+## 👨🏻‍💻 Sobre o Projeto
 
 - <p style="color: red;">O projeto é simples, apenas com fins de treinamento para alguns conceitos lógicos envolvidos em um jogo, como hitbox. No entanto, ele já apresenta alguns traços divertidos para serem aproveitados, com simples funções de deslocamento de personagens e de aplicação de dano sobre eles.</p>
 
-## 🚀 Technologies
+## 🚀 Tecnologias
 
 Technologies that I used to develop this game:
 
@@ -37,7 +37,7 @@ Technologies that I used to develop this game:
 - <img alt="GitHub top language" src="https://th.bing.com/th/id/OIP.gJfe80pa-itbKZU66dfSJgAAAA?pid=ImgDet&rs=1" width = '20px'>
 
 
-## 💻 Getting started
+## 💻 Começando com o projeto
 
 Clone este repositório em sua máquina utilizando este comando ou pressionando o botão do próprio github:
 
@@ -53,7 +53,7 @@ $ pip install pygame
 $ python ./jogo.py
 ```
 
-## 🤔 How to contribute
+## 🤔 Como me ajudar
 
 **Faça um fork para este repositório:**
 
