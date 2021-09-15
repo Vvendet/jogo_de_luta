@@ -2,7 +2,6 @@
 	<!-- <img alt="Logo" src=".github/logo.png" width="200px" /> -->
   Application Logo
 </h1>
--->
 <h3 align="center">
   Mini Jogo de Luta com Python
 </h3>
@@ -10,7 +9,7 @@
 <!--<p align="center">Short slogan</p>-->
 
 <p align="center">
-  <img alt="GitHub top language" src="https://th.bing.com/th/id/R.b9bbb1d722d3ef6ebf7d573703b5925e?rik=Z2JOTqQ%2bN1OXUQ&pid=ImgRaw&r=0" width = '10px'>
+  
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/readme-template">
   
   <a href="">
@@ -38,8 +37,8 @@
 
 Technologies that I used to develop this game:
 
-- Python
-- Pygame
+- <img alt="GitHub top language" src="https://th.bing.com/th/id/R.b9bbb1d722d3ef6ebf7d573703b5925e?rik=Z2JOTqQ%2bN1OXUQ&pid=ImgRaw&r=0" width = '10px'>
+- <img alt="GitHub top language" src="https://th.bing.com/th/id/OIP.gJfe80pa-itbKZU66dfSJgAAAA?pid=ImgDet&rs=1" width = '10px'>
 
 
 ## 💻 Getting started
