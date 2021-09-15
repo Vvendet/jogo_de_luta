@@ -10,7 +10,7 @@
 <!--<p align="center">Short slogan</p>-->
 
 <p align="center">
-  <img alt="GitHub top language" src="https://th.bing.com/th/id/R.b9bbb1d722d3ef6ebf7d573703b5925e?rik=Z2JOTqQ%2bN1OXUQ&pid=ImgRaw&r=0">
+  <img alt="GitHub top language" src="https://th.bing.com/th/id/R.b9bbb1d722d3ef6ebf7d573703b5925e?rik=Z2JOTqQ%2bN1OXUQ&pid=ImgRaw&r=0" width = '10px'>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/readme-template">
   
   <a href="">
