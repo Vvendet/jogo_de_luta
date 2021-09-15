@@ -33,8 +33,8 @@
 
 Technologies that I used to develop this game:
 
-- <img alt="GitHub top language" src="https://th.bing.com/th/id/R.b9bbb1d722d3ef6ebf7d573703b5925e?rik=Z2JOTqQ%2bN1OXUQ&pid=ImgRaw&r=0" width = '10px'>
-- <img alt="GitHub top language" src="https://th.bing.com/th/id/OIP.gJfe80pa-itbKZU66dfSJgAAAA?pid=ImgDet&rs=1" width = '10px'>
+- <img alt="GitHub top language" src="https://th.bing.com/th/id/R.b9bbb1d722d3ef6ebf7d573703b5925e?rik=Z2JOTqQ%2bN1OXUQ&pid=ImgRaw&r=0" width = '20px'>
+- <img alt="GitHub top language" src="https://th.bing.com/th/id/OIP.gJfe80pa-itbKZU66dfSJgAAAA?pid=ImgDet&rs=1" width = '20px'>
 
 
 ## 💻 Getting started
