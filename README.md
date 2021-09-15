@@ -10,24 +10,13 @@
 <!--<p align="center">Short slogan</p>-->
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EliasGcf/readme-template">
-
-  <a href="https://www.linkedin.com/in/eliasgcf/">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Elias%20Gabriel-gree">
-  </a>
-  
+  <img alt="GitHub top language" src="https://th.bing.com/th/id/R.b9bbb1d722d3ef6ebf7d573703b5925e?rik=Z2JOTqQ%2bN1OXUQ&pid=ImgRaw&r=0">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/readme-template">
   
-  <a href="https://github.com/EliasGcf/readme-template/commits/master">
+  <a href="">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliasGcf/readme-template">
   </a>
-  
-  <a href="https://github.com/EliasGcf/readme-template/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/EliasGcf/readme-template">
-  </a>
-  
-  <img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/readme-template">
-</p>
+  </p>
 
 <p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
