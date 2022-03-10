@@ -12,11 +12,9 @@ x = 800
 y = 650
 janela = pygame.display.set_mode((x,y))
 pygame.display.set_caption('Jogo de Luta')
-
-
-pygame.mixer.music.set_volume(0.1)
 musica_de_fundo = pygame.mixer.music.load('sunrise-sound-effect-free-download.mp3')
 pygame.mixer.music.play(-1)
+pygame.mixer.music.set_volume(0.1)
 
 barulho_colisao = pygame.mixer.Sound('slap-sound-effect.mp3')
 
