@@ -16,7 +16,7 @@ musica_de_fundo = pygame.mixer.music.load('sunrise-sound-effect-free-download.mp
 pygame.mixer.music.play(-1)
 pygame.mixer.music.set_volume(0.1)
 
-barulho_colisao = pygame.mixer.Sound('slap-sound-effect.mp3')
+barulho_colisao = pygame.mixer.Sound('smw_bubble_pop.wav')
 
 fundo = pygame.image.load('fundo.jpg')
 fundo = pygame.transform.scale(fundo,(x,y))
